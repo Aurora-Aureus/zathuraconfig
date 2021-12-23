@@ -1,0 +1,2 @@
+# zathuraconfig
+my zathura config
